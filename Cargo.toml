@@ -11,4 +11,4 @@ readme = "README.md"
 rust-version = "1.97"
 
 [workspace.dependencies]
-juan = { version = "0.0.0", path = "crates/juan" }
+juan-lang = { version = "0.0.0", path = "crates/juan" }

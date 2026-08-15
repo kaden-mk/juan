@@ -1,5 +1,5 @@
 [package]
-name = "juan"
+name = "juan-lang"
 version = "0.0.0"
 description = "A fast bytecode-interpreted scripting language that provides logically safe features."
 edition.workspace = true
