@@ -5,3 +5,10 @@ version = 4
 [[package]]
 name = "juan-lang"
 version = "0.0.0"
+dependencies = [
+ "juan-lexer",
+]
+
+[[package]]
+name = "juan-lexer"
+version = "0.1.0"
