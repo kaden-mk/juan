@@ -12,3 +12,4 @@ rust-version = "1.97"
 
 [workspace.dependencies]
 juan-lang = { version = "0.0.0", path = "crates/juan" }
+juan-lexer = { version = "0.1.0", path = "crates/juan-lexer" }

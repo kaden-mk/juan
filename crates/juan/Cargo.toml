@@ -12,3 +12,4 @@ keywords = ["cli", "language"]
 categories = ["compilers", "command-line-utilities"]
 
 [dependencies]
+juan-lexer.workspace = true
